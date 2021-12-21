@@ -10,7 +10,7 @@ Resources to learn to become a Perception Engineer!
 * ![Stanford Interactive Perception and Robot Learning Lab](http://iprl.stanford.edu/) (links to classes below at bottom of IPRL page)
     * CS231a: Computer Vision: From 3D Reconstruction to Recognition
     * CS326: Topics in Advanced Robotic Manipulation
-    * ![CS237b: Principles of Robot Autonomy I](https://stanfordasl.github.io/aa274a/)
+    * ![CS237a: Principles of Robot Autonomy I](https://stanfordasl.github.io/aa274a/)
         * ![Github](https://github.com/PrinciplesofRobotAutonomy)
     * CS237b: Principles of Robot Autonomy II
     * CS223a: Introduction to Robotics
